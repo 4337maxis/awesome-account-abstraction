@@ -179,6 +179,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ### Telegram
 
+- [4337 maxis](https://t.me/+OjErYLawmE85NGY0) (community events, product development )
 - 4337 mafia (product and application)
 - 4337 fan club (EIP, research, security)
 
