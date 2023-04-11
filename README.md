@@ -8,7 +8,7 @@
   <p align="center">📖 A curated list of resources dedicated to Account Abstraction</p>
   <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
   
-# 4337 Maxis Telegram: https://t.me/+OjErYLawmE85NGY0
+### 4337 Maxis Telegram: https://t.me/+OjErYLawmE85NGY0
 
 # Standard
 
